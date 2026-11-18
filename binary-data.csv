@@ -1,0 +1,42 @@
+﻿Name,Email,Phone,Course,Fee_Paid,City,Enrolled_Date,Data_Status
+Manoj K,,9876543210,python,TRUE,Chennai,2025-05-23,Cleaned
+Ravi Kumar,,9123456789,Python,TRUE,Madurai,2025-02-19,Cleaned
+Anitha R,anitha@gmail.com,9000011111,Machine Learning,FALSE,Chennai,2025-04-05,Cleaned
+Deepa M,deepam@gmail.com,8123456789,Data Science,TRUE,Salem,2025-03-09,Cleaned
+Suresh T,,7654321098,Python,FALSE,Trichy,2025-01-14,Cleaned
+Kavitha,kavitha99@gmail.com,9988776655,Machine Learning,TRUE,Chennai,2025-01-15,Cleaned
+Rajesh Kk,,8877665544,Python,TRUE,Coimbatore,2025-05-15,Cleaned
+Nithya R,nithyar@yahoo.com,9765432109,Data Science,FALSE,Madurai,2025-04-25,Cleaned
+Arun P,arunp@gmail.com,7788990011,python,TRUE,Chennai,2025-06-17,Cleaned
+Santhosh V,santhoshv@gmail.com,9900112233,Python,FALSE,Trichy,2025-01-26,Cleaned
+Lakshmi,,8811223344,Data Science,TRUE,Chennai,2025-03-07,Cleaned
+Vijay S,vijays@yahoo.com,9922334455,Machine Learning,TRUE,Coimbatore,2025-04-24,Cleaned
+Pooja N,poojan@gmail.com,9090909090,Python,FALSE,,2025-02-16,Cleaned
+Dinesh R,,8080808080,Data Science,TRUE,Madurai,2025-02-23,Cleaned
+Bala K,,7070707070,Machine Learning,FALSE,Salem,2025-06-12,Cleaned
+Revathi M,revathim@yahoo.com,9191919191,Machine Learning,TRUE,Trichy,2025-06-12,Cleaned
+Muthu S,muthus@gmail.com,8282828282,Python,TRUE,Chennai,2025-02-24,Cleaned
+Geetha,,9393939393,Data Science,FALSE,Coimbatore,2025-05-08,Cleaned
+Prasanth J,prasanthj@gmail.com,7474747474,Python,TRUE,Madurai,2025-03-05,Cleaned
+Divya P,divyap@yahoo.com,8585858585,Machine Learning,TRUE,Chennai,2025-06-10,Cleaned
+Janaki R,janakir@gmail.com,9696969696,Data Science,TRUE,Salem,2025-05-02,Cleaned
+Ramesh M,,7878787878,Python,TRUE,Chennai,2025-03-01,Cleaned
+Usha D,ushad@gmail.com,8989898989,Machine Learning,FALSE,Madurai,2025-04-21,Cleaned
+Gopal V,,9010101010,python,TRUE,Coimbatore,2025-01-12,Cleaned
+Thenmozhi,thenmozhi@gmail.com,8121212121,Machine Learning,TRUE,,2025-04-13,Cleaned
+Arjun C,arjunc@gmail.com,7232323232,Python,FALSE,Trichy,2025-01-15,Cleaned
+Naveen B,naveenb@gmail.com,9343434343,Python,TRUE,Salem,2025-06-23,Cleaned
+Mala S,malas@yahoo.com,8454545454,Machine Learning,FALSE,Chennai,2025-03-21,Cleaned
+Karthi P,,7565656565,Python,TRUE,Coimbatore,2025-02-14,Cleaned
+Suganya T,suganyt@gmail.com,9676767676,Data Science,TRUE,Madurai,2025-04-10,Cleaned
+Venkat R,,8787878787,python,FALSE,Trichy,2025-02-12,Cleaned
+Mohan J,mohanj@yahoo.com,9898989898,Python,TRUE,Salem,2025-01-23,Cleaned
+Dharani S,,7909090909,Data Science,FALSE,,2025-04-19,Cleaned
+Kishore M,kishorem@gmail.com,8010101010,Machine Learning,TRUE,Chennai,2025-02-21,Cleaned
+Padma V,,9121212121,Python,TRUE,Coimbatore,2025-03-22,Cleaned
+Balaji T,balajit@gmail.com,7232323232,Data Science,FALSE,Madurai,2025-03-17,Cleaned
+Selvam K,,8343434343,Machine Learning,TRUE,Salem,2025-02-28,Cleaned
+Chitra R,chitrar@gmail.com,9454545454,Machine Learning,FALSE,Trichy,2025-03-15,Cleaned
+Ganesh P,,7565656565,Python,TRUE,Chennai,2025-06-27,Cleaned
+Latha S,lathas@gmail.com,8676767676,Data Science,TRUE,Coimbatore,2025-04-04,Cleaned
+Ammu K,ammuk@gmail.com,9787878787,Machine Learning,TRUE,Chennai,2025-02-13,Cleaned
